@@ -1,0 +1,36 @@
+#project {
+    background-color: rgb(87, 87, 110);
+}
+
+.project-title {
+    color: lightgreen;
+    margin-top: 150px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.project-card {
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 1);
+}
+
+.project-card:hover {
+    transform: scale(1.1);
+}
+
+.btn-project {
+    text-decoration: none;
+    border: 1px solid black;
+    font-weight: 500;
+    color: white;
+    display: flex;
+    justify-content: center;
+    width: 120px;
+    padding: 5px 0px;
+    border-radius: 5px;
+    background-color: rgb(63, 60, 100);
+    margin: auto;
+}
+
+.btn-project:hover {
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.8);
+}
