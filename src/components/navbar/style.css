@@ -6,6 +6,7 @@
 .navbar {
     background-color: rgb(63, 60, 100);
     box-shadow: 0px 5px 20px rgb(0, 0, 0, 1);
+    border-bottom: 3px solid yellow;
 }
 
 .navbar-toggler {
@@ -22,6 +23,7 @@
     font-weight: 700;
     font-family: Arial, Helvetica, sans-serif;
     color: lightgreen;
+    text-shadow: 1px 1px 2px black;
 }
 
 .nav-link {

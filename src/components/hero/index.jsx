@@ -8,7 +8,7 @@ const Hero = () => {
             <div className='container'>
                 <div className="row hero-wrapper">
                     <div className="col hero-left">
-                        <p className='text-black'>Hai, Nama saya</p>
+                        <p className='text-black fw-medium'>Hai, Nama saya</p>
                         <h2 className='hero-text'>Kaka Hardiansyah</h2>
                         <h4 className='hero-text-2'>Saya adalah seorang Front End Developer</h4>
                     </div>

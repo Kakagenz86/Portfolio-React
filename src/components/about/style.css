@@ -1,10 +1,12 @@
 .about {
-    background-color: rgb(87, 87, 110);
+    background-color: rgb(108, 108, 122);
+    padding-bottom: 20px;
 }
 
 .about-title {
     color: lightgreen;
-    margin-top: 70px;
+    text-shadow: 1px 1px 1px black;
+    margin-top: 50px;
 }
 
 .about-sosmed {

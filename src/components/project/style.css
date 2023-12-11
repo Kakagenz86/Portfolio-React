@@ -1,9 +1,11 @@
 #project {
-    background-color: rgb(87, 87, 110);
+    background-color: rgb(108, 108, 122);
+    border-top: 2px solid yellow;
 }
 
 .project-title {
     color: lightgreen;
+    text-shadow: 1px 1px 1px black;
     margin-top: 150px;
     text-align: center;
     margin-bottom: 30px;

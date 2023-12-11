@@ -11,7 +11,7 @@ const Project = (props) => {
                         {props.data.map((projectMe) => (
                             <div className="col-lg-3 col-md-6 col-sm-12 mb-5 d-flex justify-content-center">
                                 <Card className='project-card' style={{ width: '18rem' }}>
-                                    <Card.Img variant="top" style={{ height: '170px' }} src={projectMe.image} />
+                                    <Card.Img variant="top" style={{ height: '170px' }} alt={projectMe.alt} src={projectMe.image} />
                                     <Card.Body>
                                             <Card.Text>{projectMe.description}</Card.Text>
                                             <a className='btn-project' target='blank' href={projectMe.link}>Lihat Sekarang</a>
