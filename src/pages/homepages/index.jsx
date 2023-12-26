@@ -1,4 +1,3 @@
-import React from 'react'
 import Navbar from '../../components/navbar';
 import Hero from '../../components/hero';
 import AboutMe from '../../components/about';
@@ -63,7 +62,7 @@ const HomePages = () => {
         image: img8,
         description: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Repellendus, magnam a! Iste laboriosam fugiat itaque mollitia odit, necessitatibus facilis ducimus.',
         alt: 'react from binar image',
-        link: 'https://cp6-react1.vercel.app/'
+        link: 'https://cp6-react5.vercel.app/'
     },
     {
         image: img9,
