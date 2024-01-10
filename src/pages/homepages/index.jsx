@@ -13,7 +13,6 @@ import img6 from '../../assets/images/img6.png'
 import img7 from '../../assets/images/img7.png'
 import img8 from '../../assets/images/img8.png'
 import img9 from '../../assets/images/img9.png'
-import img10 from '../../assets/images/img10.png'
 
 const HomePages = () => {
     const projectMe = [{
@@ -25,8 +24,8 @@ const HomePages = () => {
     {
         image: img2,
         description: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Repellendus, magnam a! Iste laboriosam fugiat itaque mollitia odit, necessitatibus facilis ducimus.',
-        alt: 'calculator image',
-        link: 'https://calcuweb.vercel.app/'
+        alt: 'company profile Utama Medical',
+        link: 'https://utama-medical.vercel.app/'
     },
     {
         image: img3,
@@ -62,19 +61,13 @@ const HomePages = () => {
         image: img8,
         description: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Repellendus, magnam a! Iste laboriosam fugiat itaque mollitia odit, necessitatibus facilis ducimus.',
         alt: 'react from binar image',
-        link: 'https://cp6-react5.vercel.app/'
+        link: 'https://cp6-react5-kakagenz86s-projects.vercel.app/'
     },
     {
         image: img9,
         description: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Repellendus, magnam a! Iste laboriosam fugiat itaque mollitia odit, necessitatibus facilis ducimus.',
         alt: 'web film image',
         link: 'https://genz-film.vercel.app/'
-    },
-    {
-        image: img10,
-        description: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Repellendus, magnam a! Iste laboriosam fugiat itaque mollitia odit, necessitatibus facilis ducimus.',
-        alt: 'web film image',
-        link: 'https://tictactoe-sage-one.vercel.app/'
     }]
 
     return ( 
